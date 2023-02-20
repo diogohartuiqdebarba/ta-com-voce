@@ -1,0 +1,21 @@
+Wakka Wakka.mp3 = it-music.ogg
+
+Written by Bryan Teoh. It's Yakity; it's saxity; 
+It is everything you ever needed for a chase scene. 
+This music is available for commercial and non-commercial purposes.
+
+Barnville.mp3 = not-it-music.ogg
+
+Written by Rafael Krux. Here's the seven-word pitch. Casual. Farm. Building. 
+Multi-currency. Blockchain. AI. 
+This music is available for commercial and non-commercial purposes.
+
+SparrowRayne: Stumble.mp3 = characte-stumble-on-toys.wav
+
+Vic5555: Portal Phase Jump.wav = enter-exit-portal.wav
+
+MATRIXXX_: SciFi Inspect Sound, UI, or In-Game Notification 01.wav = select-portal.wav
+
+MATRIXXX_: Horror Inspect Sound, UI, or In-Game Notification 01.wav : unselect-portal.wav
+
+plasterbrain: Arcade » Game Start : start-game.ogg
